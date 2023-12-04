@@ -2,6 +2,7 @@
   "name": "nuxt-module-lite",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@8.11.0",
   "description": "description placeholder",
   "author": "your-name <account@mail.com>",
   "license": "MIT",
